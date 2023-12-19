@@ -1,2 +1,1 @@
-# Precision-Agriculture
-This approach has the potential to create accurate, generalizable and adaptable machine learning methods that effectively and sustainably address agricultural tasks such as yield prediction and early disease identification.
+# Precision Agriculture using Machine Learning algorithms to predict the optimal crop best suited for growing under given conditions.
